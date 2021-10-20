@@ -6,5 +6,5 @@ This command creates a brand new branch and then switches to it without using th
 
 _Creates branch with the name my-favourite-branch and switches to it._
 ```
-git checkout -b my-favourite-branch main
+git checkout -b my-favourite-branch
 ```
